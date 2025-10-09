@@ -36,4 +36,6 @@
 {4,"_$Data$_.Delete",14},
 {4,"_$Transaction$_.Rollback",15},
 {5,da2827aa-492b-499e-b24d-c38259d2ebab,"Документ.ЗаказКлиента",9},
-{4,"_$PerformError$_",16}
+{4,"_$PerformError$_",16},
+{4,"_$Data$_.Post",17},
+{4,"_$Data$_.Unpost",18}
