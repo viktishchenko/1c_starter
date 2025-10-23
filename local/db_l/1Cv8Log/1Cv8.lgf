@@ -49,4 +49,5 @@
 {1,5e6b6ce9-98cb-4fd7-9ca5-6f6bf5680e2a,"Администратор",2},
 {13,1,2},
 {5,5bb65c25-9dbc-401f-8421-17923539d95e,"РегистрСведений.ЦеныНоменклатуры",12},
-{4,"_$Transaction$_.Rollback",24}
+{4,"_$Transaction$_.Rollback",24},
+{4,"_$InfoBase$_.DBConfigUpdateError",25}
