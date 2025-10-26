@@ -50,4 +50,6 @@
 {13,1,2},
 {5,5bb65c25-9dbc-401f-8421-17923539d95e,"РегистрСведений.ЦеныНоменклатуры",12},
 {4,"_$Transaction$_.Rollback",24},
-{4,"_$InfoBase$_.DBConfigUpdateError",25}
+{4,"_$InfoBase$_.DBConfigUpdateError",25},
+{4,"_$Session$_.ExternalDataProcessorConnectError",26},
+{4,"_$Session$_.ExternalDataProcessorConnect",27}
