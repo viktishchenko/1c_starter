@@ -52,4 +52,9 @@
 {4,"_$Transaction$_.Rollback",24},
 {4,"_$InfoBase$_.DBConfigUpdateError",25},
 {4,"_$Session$_.ExternalDataProcessorConnectError",26},
-{4,"_$Session$_.ExternalDataProcessorConnect",27}
+{4,"_$Session$_.ExternalDataProcessorConnect",27},
+{5,e5e48733-cee0-4b53-bc52-b055c22481bf,"",13},
+{5,e5e48733-cee0-4b53-bc52-b055c22481bf,"ПланВидовХарактеристик.ХарактеристикиНоменклатуры",13},
+{5,1bf77741-4c06-408b-91d8-be65bb3e77c9,"РегистрСведений.ХарактеристикиНоменклатуры",14},
+{5,a18a5a9c-4cb7-4858-9272-692765df5cbb,"",15},
+{5,a18a5a9c-4cb7-4858-9272-692765df5cbb,"Справочник.ЗначенияХарактеристик",15}
