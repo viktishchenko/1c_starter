@@ -1,0 +1,298 @@
+!SESSION 2025-11-02 03:14:43.575 -----------------------------------------------
+eclipse.buildId=2025.1.4.15
+java.version=17.0.16
+java.vendor=Axiom JSC
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\1c_start\edt_park
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-11-02 03:14:50.254
+!MESSAGE java.vm.name=OpenJDK 64-Bit Server VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-11-02 03:14:50.256
+!MESSAGE java.vm.info=mixed mode, sharing
+
+!ENTRY com.e1c.g5.v8.dt.platform.standaloneserver.wst.core 1 0 2025-11-02 03:14:52.963
+!MESSAGE Начат однократный процесс перевода на новую версию: Переключение на сервер отладки, встроенный в автономный сервер.
+
+!ENTRY com.company1c.link.ide.edt 1 0 2025-11-02 03:14:53.360
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in D:\1c_start\edt_park\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY org.eclipse.ui.navigator 4 0 2025-11-02 03:14:59.378
+!MESSAGE An extension already exists with id "org.eclipse.wst.server.ui.ServersView.content.root".
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-11-02 03:15:04.317
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2025-11-02 03:15:04.317
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:17:13.829
+!MESSAGE Создание информационной базы edt_park_db : Подготовка соединения
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:17:13.836
+!MESSAGE Создание информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:17:15.036
+!MESSAGE Обновление списка зарегистрированных информационных баз
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:17:15.123
+!MESSAGE Обновление списка зарегистрированных информационных баз
+
+!ENTRY com._1c.g5.v8.dt.md.ui 1 0 2025-11-02 03:17:26.737
+!MESSAGE Создается новый проект кофигурации УправлениеПарком
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-11-02 03:17:26.810
+!MESSAGE Project context is being started: УправлениеПарком (NEW_PROJECT)
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-11-02 03:17:28.404
+!MESSAGE Starting phase LINKING of context ProjectContext: УправлениеПарком
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-11-02 03:17:28.405
+!MESSAGE Starting phase INITIALIZATION of context ProjectContext: УправлениеПарком
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-11-02 03:17:29.123
+!MESSAGE Starting phase CHECKING of context ProjectContext: УправлениеПарком
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-11-02 03:17:29.131
+!MESSAGE Starting phase STORAGE_INITIALIZATION of context ProjectContext: УправлениеПарком
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-11-02 03:17:29.554
+!MESSAGE Starting phase RESOURCE_LOADING of context ProjectContext: УправлениеПарком
+
+!ENTRY com._1c.g5.v8.dt.lifecycle 1 0 2025-11-02 03:17:29.724
+!MESSAGE Starting phase POST_RESOURCE_LOADING of context ProjectContext: УправлениеПарком
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-11-02 03:17:30.091
+!MESSAGE Project context is started: УправлениеПарком
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:17:31.555
+!MESSAGE Установка соединения для проекта УправлениеПарком и информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:17:31.664
+!MESSAGE Соединение с агентом конфигуратора для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 4 0 2025-11-02 03:17:35.446
+!MESSAGE Project УправлениеПарком should have persisted synchronization state, but persisted state not found. Unsynchronized state will be used.
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:17:35.453
+!MESSAGE Соединение с агентом конфигуратора для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:25:28.021
+!MESSAGE Установка соединения для проекта УправлениеПарком и информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:25:28.025
+!MESSAGE Соединение с агентом конфигуратора для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:25:35.281
+!MESSAGE Обновление приложения "edt_park_db"...
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:25:35.285
+!MESSAGE Обновление информационной базы edt_park_db в соответствии с конфигурацией из проекта УправлениеПарком
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:25:35.392
+!MESSAGE Соединение с агентом конфигуратора для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:25:35.883
+!MESSAGE Загрузка конфигурации в информационную базу edt_park_db : Подготовка соединения
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:25:35.887
+!MESSAGE Загрузка конфигурации в информационную базу edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:25:36.907
+!MESSAGE Обновление конфигурации базы данных информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.platform.services.ui 1 0 2025-11-02 03:25:37.037
+!MESSAGE Платформа 1С:Предприятия запрашивает подтверждение реструктуризации базы данных для следующих изменений:
+Новый объект: Справочник.Аттракционы
+Новый объект: Документ.ПродажаБилета
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:25:40.270
+!MESSAGE Получение идентификатора поколения данных в информационной базе edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:25:40.289
+!MESSAGE Установка соединения для проекта УправлениеПарком и информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:25:40.293
+!MESSAGE Соединение с агентом конфигуратора для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:25:40.301
+!MESSAGE Запуск тонкого клиента для информационной базы edt_park_db : Подготовка соединения
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:25:40.302
+!MESSAGE Запуск тонкого клиента для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 0 0 2025-11-02 03:31:34.545
+!MESSAGE Обновление приложений УправлениеПарком
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:31:34.547
+!MESSAGE Установка соединения для проекта УправлениеПарком и информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:31:34.551
+!MESSAGE Соединение с агентом конфигуратора для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:31:34.552
+!MESSAGE Обновление приложения "edt_park_db"...
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:31:34.553
+!MESSAGE Обновление информационной базы edt_park_db в соответствии с конфигурацией из проекта УправлениеПарком
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:31:34.594
+!MESSAGE Соединение с агентом конфигуратора для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:31:35.020
+!MESSAGE Получение идентификатора поколения данных в информационной базе edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:31:35.051
+!MESSAGE Загрузка 2 объектов конфигурации в информационную базу edt_park_db : Подготовка соединения
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:31:35.053
+!MESSAGE Загрузка 2 объектов конфигурации в информационную базу edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:31:35.956
+!MESSAGE Обновление конфигурации базы данных информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.platform.services.ui 1 0 2025-11-02 03:31:36.068
+!MESSAGE Платформа 1С:Предприятия запрашивает подтверждение реструктуризации базы данных для следующих изменений:
+Объект изменен: Документ.ПродажаБилета
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:31:38.935
+!MESSAGE Получение идентификатора поколения данных в информационной базе edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:34:53.329
+!MESSAGE Установка соединения для проекта УправлениеПарком и информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:34:53.333
+!MESSAGE Соединение с агентом конфигуратора для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:34:55.170
+!MESSAGE Обновление приложения "edt_park_db"...
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:34:55.171
+!MESSAGE Обновление информационной базы edt_park_db в соответствии с конфигурацией из проекта УправлениеПарком
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:34:55.248
+!MESSAGE Соединение с агентом конфигуратора для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:34:55.667
+!MESSAGE Загрузка 2 объектов конфигурации в информационную базу edt_park_db : Подготовка соединения
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:34:55.669
+!MESSAGE Загрузка 2 объектов конфигурации в информационную базу edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:34:56.572
+!MESSAGE Обновление конфигурации базы данных информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:34:56.689
+!MESSAGE Получение идентификатора поколения данных в информационной базе edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:34:56.804
+!MESSAGE Установка соединения для проекта УправлениеПарком и информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:34:56.807
+!MESSAGE Соединение с агентом конфигуратора для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:34:58.752
+!MESSAGE Запуск тонкого клиента для информационной базы edt_park_db : Подготовка соединения
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 03:34:58.753
+!MESSAGE Запуск тонкого клиента для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.debug.core 1 0 2025-11-02 04:14:03.172
+!MESSAGE Сессия отладки завершилась: RuntimeSessionThreadGroup[name=Сеанс 3, sessionId=3, sessionUuid=d23f9a34-2600-40a9-ad99-a381c242c66e]
+!STACK 0
+java.lang.RuntimeException: Снимок стека
+	at com._1c.g5.v8.dt.internal.debug.core.model.RuntimeDebugClientTarget.lambda$10(RuntimeDebugClientTarget.java:2447)
+	at com._1c.g5.v8.dt.internal.debug.core.model.RuntimeSessionThreadGroup.terminate(RuntimeSessionThreadGroup.java:259)
+	at com._1c.g5.v8.dt.internal.launching.core.launchconfigurations.RuntimeClientLaunchDelegate.terminateDebugSession(RuntimeClientLaunchDelegate.java:710)
+	at com._1c.g5.v8.dt.internal.launching.core.launchconfigurations.RuntimeClientLaunchDelegate.checkExistingDebugSessions(RuntimeClientLaunchDelegate.java:402)
+	at com._1c.g5.v8.dt.internal.launching.core.launchconfigurations.RuntimeClientLaunchDelegate.lambda$0(RuntimeClientLaunchDelegate.java:176)
+	at com._1c.g5.v8.dt.common.runtime.ProgressMonitors.runWithSubMonitor(ProgressMonitors.java:361)
+	at com._1c.g5.v8.dt.internal.launching.core.launchconfigurations.RuntimeClientLaunchDelegate.doLaunch(RuntimeClientLaunchDelegate.java:150)
+	at com._1c.g5.v8.dt.debug.core.launchconfigurations.CustomErrorHandlingLaunchDelegate.launch(CustomErrorHandlingLaunchDelegate.java:56)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:805)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:716)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com._1c.g5.v8.dt.debug.core 1 0 2025-11-02 04:14:03.174
+!MESSAGE Сессия отладки завершилась: RuntimeSessionThreadGroup[name=Сеанс 3, sessionId=3, sessionUuid=d23f9a34-2600-40a9-ad99-a381c242c66e]
+!STACK 0
+java.lang.RuntimeException: Снимок стека
+	at com._1c.g5.v8.dt.internal.debug.core.model.RuntimeDebugClientTarget.lambda$10(RuntimeDebugClientTarget.java:2447)
+	at com._1c.g5.v8.dt.internal.debug.core.model.RuntimeSessionThreadGroup.terminate(RuntimeSessionThreadGroup.java:259)
+	at com._1c.g5.v8.dt.internal.debug.core.model.RuntimeDebugClientTarget$ChangeNotifier.processThreadTerminated(RuntimeDebugClientTarget.java:2525)
+	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+	at com._1c.g5.v8.dt.internal.debug.core.model.RuntimeDebugClientTarget$ChangeNotifier.lambda$4(RuntimeDebugClientTarget.java:2499)
+	at java.base/java.util.Optional.ifPresentOrElse(Optional.java:198)
+	at com._1c.g5.v8.dt.internal.debug.core.model.RuntimeDebugClientTarget$ChangeNotifier.handleEvent(RuntimeDebugClientTarget.java:2498)
+	at com._1c.g5.v8.dt.internal.debug.core.model.RuntimeDebugClientTarget$ChangeNotifier.handleDebugEvents(RuntimeDebugClientTarget.java:2480)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1265)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1299)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:498)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 04:14:03.789
+!MESSAGE Установка соединения для проекта УправлениеПарком и информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 04:14:03.793
+!MESSAGE Соединение с агентом конфигуратора для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 04:14:03.795
+!MESSAGE Проверка приложения "edt_park_db"...
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 04:14:03.797
+!MESSAGE Получение изменений в информационной базе edt_park_db для проекта УправлениеПарком
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 04:14:03.825
+!MESSAGE Соединение с агентом конфигуратора для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 04:14:03.837
+!MESSAGE Установка соединения для проекта УправлениеПарком и информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 04:14:03.840
+!MESSAGE Соединение с агентом конфигуратора для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 04:14:04.435
+!MESSAGE Запуск тонкого клиента для информационной базы edt_park_db : Подготовка соединения
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 04:14:04.436
+!MESSAGE Запуск тонкого клиента для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.debug.core 1 0 2025-11-02 04:14:16.991
+!MESSAGE Сессия отладки завершилась: RuntimeSessionThreadGroup[name=Сеанс 6, sessionId=6, sessionUuid=203e788b-b0f8-4754-aa9e-d163b0f2c890]
+!STACK 0
+java.lang.RuntimeException: Снимок стека
+	at com._1c.g5.v8.dt.internal.debug.core.model.RuntimeDebugClientTarget.lambda$10(RuntimeDebugClientTarget.java:2447)
+	at com._1c.g5.v8.dt.internal.debug.core.model.RuntimeSessionThreadGroup.removeThread(RuntimeSessionThreadGroup.java:203)
+	at com._1c.g5.v8.dt.internal.debug.core.model.RuntimeDebugClientTarget.removeThread(RuntimeDebugClientTarget.java:1911)
+	at com._1c.g5.v8.dt.internal.debug.core.model.RuntimeDebugClientTarget.handleDebugTargetTerminate(RuntimeDebugClientTarget.java:1067)
+	at com._1c.g5.v8.dt.internal.debug.core.model.RuntimeEventDispatchJob.processDebugTargetTerminateEvent(RuntimeEventDispatchJob.java:366)
+	at com._1c.g5.v8.dt.internal.debug.core.model.RuntimeEventDispatchJob.processEvent(RuntimeEventDispatchJob.java:229)
+	at com._1c.g5.v8.dt.internal.debug.core.model.RuntimeEventDispatchJob.run(RuntimeEventDispatchJob.java:155)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-11-02 04:14:22.675
+!MESSAGE EDT закрывается
+
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2025-11-02 04:14:22.676
+!MESSAGE Существующий проект (на закрытии): УправлениеПарком, открыт: true
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 1 0 2025-11-02 04:14:23.200
+!MESSAGE Saving dialog settings
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-11-02 04:14:23.511
+!MESSAGE Project context is being stopped: УправлениеПарком (IDE_SHUTDOWN)-(com._1c.g5.v8.dt.core.platform.workspace-project)
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 04:14:23.650
+!MESSAGE Остановка агента конфигуратора для информационной базы edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.common 0 0 2025-11-02 04:14:23.800
+!MESSAGE Очистка ресурсов приложения edt_park_db проекта УправлениеПарком
+
+!ENTRY com._1c.g5.v8.dt.common 8 0 2025-11-02 04:14:23.801
+!MESSAGE Разрыв соединения между проектом УправлениеПарком и информационной базой edt_park_db
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2025-11-02 04:14:23.816
+!MESSAGE Project context is stopped: УправлениеПарком
