@@ -23,4 +23,5 @@
 {3,"WebSocket",3},
 {3,"BackgroundJob",4},
 {5,b9ddbc41-44eb-44e7-abc8-cd78e4fddcde,"Документ.ПродажаБилета",2},
-{4,"_$Data$_.Post",13}
+{4,"_$Data$_.Post",13},
+{4,"_$Data$_.Update",14}
