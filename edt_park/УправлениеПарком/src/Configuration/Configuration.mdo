@@ -44,4 +44,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.Аттракционы</catalogs>
+  <documents>Document.ПродажаБилета</documents>
 </mdclass:Configuration>

@@ -14,4 +14,15 @@ b3bd9ca8-16d7-4220-9cc2-ecadc92d997b
 {4,"_$Access$_.Access",7},
 {3,"1CV8C",2},
 {3,"WebSocket",3},
-{3,"BackgroundJob",4}
+{3,"BackgroundJob",4},
+{4,"_$InfoBase$_.ConfigUpdate",8},
+{4,"_$InfoBase$_.PredefinedDataUpdate",9},
+{5,d7b23f48-671e-4413-ae90-809a8d8edbda,"",1},
+{4,"_$Transaction$_.Begin",10},
+{4,"_$Data$_.New",11},
+{5,d7b23f48-671e-4413-ae90-809a8d8edbda,"Справочник.Аттракционы",1},
+{4,"_$Transaction$_.Commit",12},
+{4,"_$Data$_.Delete",13},
+{5,9c2954dc-6e66-4bba-92cc-b598239e6e19,"Документ.ПродажаБилета",2},
+{4,"_$Data$_.Post",14},
+{4,"_$PerformError$_",15}
