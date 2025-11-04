@@ -141,7 +141,12 @@
 			<c>
 				<c>
 					<f>11</f>
-					<parameter>[СуммаДокумента]руб.</parameter>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>[СуммаДокумента]руб.</v8:content>
+						</v8:item>
+					</tl>
 				</c>
 			</c>
 		</row>
@@ -206,6 +211,7 @@
 	</format>
 	<format>
 		<font>1</font>
+		<horizontalAlignment>Left</horizontalAlignment>
 		<verticalAlignment>Top</verticalAlignment>
 		<textPlacement>Wrap</textPlacement>
 		<fillType>Parameter</fillType>
@@ -221,10 +227,10 @@
 		<autoIndent>0</autoIndent>
 	</format>
 	<format>
-		<horizontalAlignment>Right</horizontalAlignment>
+		<horizontalAlignment>Left</horizontalAlignment>
 		<verticalAlignment>Top</verticalAlignment>
 		<textPlacement>Block</textPlacement>
-		<fillType>Parameter</fillType>
+		<fillType>Template</fillType>
 		<format>
 			<v8:item>
 				<v8:lang>#</v8:lang>
