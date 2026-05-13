@@ -48,4 +48,7 @@
 {4,"_$Data$_.Post",18},
 {4,"_$Data$_.Unpost",19},
 {5,0edecf9d-2b3a-44bb-8cce-dd49c003fbaf,"Документ.ПриходнаяНакладная",20},
-{4,"_$Session$_.ExternalDataProcessorConnect",20}
+{4,"_$Session$_.ExternalDataProcessorConnect",20},
+{4,"_$InfoBase$_.PredefinedDataUpdate",21},
+{5,7656e33b-2264-4fae-bda6-c84f0114f422,"",21},
+{5,7656e33b-2264-4fae-bda6-c84f0114f422,"Справочник.ХарактеристикиНоменклатуры",21}
